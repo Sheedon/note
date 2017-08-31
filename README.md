@@ -13,3 +13,5 @@ http://blog.csdn.net/zhaokaiqiang1992 android
 android官方文档https://developer.android.google.cn/guide/index.html
 
 源码大招：不服来战！撸这些完整项目，你不牛逼都难！ https://juejin.im/post/5917ca958d6d810058746134
+
+自定义控件之AndroidSegmentControlView，仿IOS平台UISegmentControlView，继承自View   http://blog.csdn.net/yeah0126/article/details/51452508
