@@ -23,4 +23,4 @@ android 官方文档https://developer.android.google.cn/index.html
 优秀的Android开源框架 http://blog.csdn.net/createchance/article/details/59488564
 
 
-APP下载链接 http://file.yanhangtec.com/testfile/fileResource/upload/ad25da9c-0b4f-4043-b8ed-9c9468fc5070.apk
+APP下载链接 https://space.dingtalk.com/s/gwHOAfrYkALOAshyNgPaACAzMDY0N2E2YzUzYzA0NDlhOWEzYThiZWU3YzM4MGFlYg 密码: cjEp
